@@ -16,5 +16,5 @@ The point of this shell is to help get a deeper understanding and hands-on exper
 core operating system principles, like system calls, process control, and file system interactions
 and to explore the mechanics behind modern command-line interfaces.
 
-This project is not hosted via a third party, the source code must be downloaded, compile and run locally.
-The code was written for Linux specifically, it may not work for other OS terminals. Set up instructions are in the PDF in the repo.
+This project is not hosted via a third party, the source code must be downloaded, compiled and run locally.
+The code was written for Linux specifically; it may not work for other OS terminals. The set-up instructions are in the PDF in the repo.
