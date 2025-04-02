@@ -1,9 +1,10 @@
 # Custom-Linux-Shell
+Operating Systems group project
 
 Our Custom Shell Project is a user-centric program designed to mirror the functionality 
 of standard Unix/Linux shells while being simple and practical. It’s developed in C for a Linux 
-environment and this shell supports essential file system operations to manipulate files and 
-directories, environment variable handling is also included. Key features include creating, 
+environment, and this shell supports essential file system operations to manipulate files and 
+directories; environment variable handling is also included. Key features include creating, 
 renaming, and deleting files, making, changing and removing directories, managing file 
 permissions, and setting and retrieving environment variables. The shell also includes a helpful 
 command reference menu (help) for user guidance and employs robust error handling to manage 
